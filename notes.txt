@@ -1,0 +1,3 @@
+Practising Git in Python
+
+Checking commit in python
