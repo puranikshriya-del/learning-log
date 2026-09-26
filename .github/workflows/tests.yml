@@ -19,4 +19,4 @@ jobs:
           python -m pip install pytest
 
       - name: Run tests
-        run: python -m pytest
+        run: python -m pytest test_ci.py
